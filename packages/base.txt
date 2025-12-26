@@ -1,0 +1,8 @@
+git
+curl
+wget
+build-essential
+cmake
+meson
+ninja-build
+pkg-config
